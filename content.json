@@ -1,13 +1,4 @@
-{
-  "ads": {
-    "appOpen": "ca-app-pub-3940256099942544/3419835294",
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "native": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "nativeAdInterval": 5,
-    "interstitialChance": 30
-  },
-  "data": [
+[
     {
 	  "img": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/15-instagrammable-destination-s-you-must-visit-in-bali/1.jpg",
       "imgSource": null,
@@ -70,20 +61,5 @@
       "title": "Tanah Lot",
       "content": "Salah satu destinasi yang sangat penting di Bali adalah Tanah Lot, Pura Hindu kuno yang eksotis terletak di atas karang yang menantang deru ombak. Terkenal karena posisi lepas pantainya yang unik yang menjadikan Tanah Lot sebagai salah satu lokasi paling menakjubkan untuk memandang matahari terbenam. Tanah Lot merupakan tempat ikonik yang harus Sobat Pesona tuju untuk pengalaman Bali yang seutuhnya. Tanah Lot merupakan salah satu destinasi paling populer bagi para wisatawan karena situs ini menawarkan semua keunikan kebudayaan Tradisional Bali. Sobat Pesona juga dapat memilih banyak suvenir dan membawa pulang sebagian Bali ke rumah! Mulai dari topeng, tas dan banyak suvenir tradisional lainnya.  ",
       "contentSource": null
-    }	  
-    },
-    {
-      "img": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/15-instagrammable-destination-s-you-must-visit-in-bali/14.jpg",
-      "imgSource": {
-        "title": "Pura Uluwatu",
-        "url": "https://www.indonesia.travel/id/id/ide-liburan/15-destinasi-instagrammable-di-bali-yang-harus-sobat-pesona-kunjungi"
-      },
-      "title": "Pura Uluwatu",
-      "content": "Memiliki nama asli Pura Luhur Uluwatu, Pura ini adalah salah satu dari 6 Pura utama yang diyakini sebagai pilar spiritual Bali. Pura Uluwatu juga terkenal karena lokasinya yang luar biasa. Berdiri megah di atas tebing curam sekitar 70 meter diatas permukaan laut. Sulit untuk tidak mengakui Pura Uluwatu sebagai salah satu tempat di urutan teratas untuk menikmati matahari terbenam dengan pemandangan langsung menghadap samudera Hindia, sambil diiringi pertunjukan tari Kecak yang membahana. Tampilan menakjubkan ini akan membuat gambaran yang sempurna di Instagram Sobat Pesona! Jangan lupa untuk datang sebelum jam matahari terbenam ya!",
-      "contentSource": {
-        "title": "Pura Uluwatu",
-        "url": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/trip-ideas/15-instagrammable-destination-s-you-must-visit-in-bali/14.jpg"
-      }
-    }
+    }	   
   ]
-}
